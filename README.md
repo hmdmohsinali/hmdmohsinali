@@ -29,8 +29,6 @@ I am not just about the code; but I just love coding .
 - [LinkedIn]www.linkedin.com/in/hmdmohsinali
 - [dev.to]https://dev.to/mdmohsinali
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hmdmohsinali" alt="GitHub Streak" /></a>
 
-![](https://komarev.com/ghpvc/?username=hmdmohsinali)
 
 Let's build something amazing together! 🚀
